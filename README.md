@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**Kavya-naik-007/Kavya-naik-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ CYBERA
+AI-powered network attack forecasting platform.
 
-Here are some ideas to get you started:
+`AI/ML` `Cybersecurity` `TypeScript` `Node.js`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 [Live Demo](https://cybera-ai.onrender.com/) · 📂 [Repository](https://github.com/Kavya-naik-007/cybera-ai)
+
+---
+
+### 🕵️ CASENET
+AI-powered criminal network intelligence platform.
+
+`AI` `Neo4j` `FastAPI` `PostgreSQL` `Qdrant`
+
+🌐 [Live Demo](https://casenet-ai.onrender.com/) · 📂 [Repository](https://github.com/Kavya-naik-007/casenet)
+
+
+
+### 🧠 SmrithiSangam
+AI-powered cognitive companion for personalized and adaptive experiences.
+
+`Flutter` `AI/ML` `Firebase` `Python`
+
+🌐 [Live Demo](https://smrithisangam.onrender.com/) · 📂 [Repository](https://github.com/Kavya-naik-007/smrithisangam)
